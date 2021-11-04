@@ -5,7 +5,41 @@
   padding: 6px;
 }
 
+.nav-item {
+  padding-left: 15px;
+}
+
 .g-menu {
   height: 40px;
   width: 40px;
+}
+
+.section-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 150px;
+  max-height: 290px;
+  height: calc(100% - 560px);
+}
+
+.logo-container {
+  max-height: 230px;
+  position: relative;
+  text-align: center;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.logo-row {
+  height: calc(100% - 215px);
+}
+
+.logo {
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+  object-position: center bottom;
+  width: auto;
+  vertical-align: bottom;
 }
