@@ -76,26 +76,3 @@ body {
   padding: 5px 8px 0 16px;
   padding-left: 14px;
 }
-
-.magnify {
-  display: flex;
-  align-items: center;
-  padding-right: 13px;
-  margin-top: -5px;
-}
-
-.magnifying {
-  margin: auto;
-}
-
-.magnifying-glass {
-  margin-top: 3px;
-  height: 20px;
-  width: 20px;
-}
-
-.magnifying-glass img {
-  display: block;
-  height: 100%;
-  width: 100%;
-}
