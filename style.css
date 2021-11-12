@@ -109,7 +109,7 @@ footer {
   background: transparent;
   outline: none;
   padding: 0 8px;
-  width: 24px;
+  /* width: 24px; */
   line-height: 44px;
 }
 
