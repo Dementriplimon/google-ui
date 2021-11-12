@@ -84,6 +84,35 @@ footer {
   padding-left: 14px;
 }
 
+.s-input {
+  background-color: transparent;
+  border: none;
+  margin: 0;
+  padding: 0;
+  color: black;
+  word-wrap: break-word;
+  outline: none;
+  display: flex;
+  flex: 100%;
+  -webkit-tap-highlight-color: transparent;
+  margin-top: 5px;
+  height: 34px;
+  font-size: 16px;
+}
+
+.vs-icon {
+  flex: 1 0 auto;
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+  border: 0;
+  background: transparent;
+  outline: none;
+  padding: 0 8px;
+  width: 24px;
+  line-height: 44px;
+}
+
 /* Footer */
 
 .links-1 a {
