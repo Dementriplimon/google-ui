@@ -22,9 +22,17 @@ footer {
   padding-left: 15px;
 }
 
+.nav-link {
+  display: inline-block !important;
+  color: black !important;
+  text-decoration: none !important;
+  line-height: 24px !important;
+  vertical-align: middle !important;
+}
+
 .g-menu {
-  height: 40px;
-  width: 40px;
+  height: 24px;
+  width: 24px;
 }
 
 .section-1 {
