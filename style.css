@@ -3,6 +3,13 @@ body {
   font-size: 14px;
   font-family: Roboto, arial, sans-serif;
   color: #bdc1c6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  margin-top: auto;
 }
 
 .navbar {
